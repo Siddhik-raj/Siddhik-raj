@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhik Raj</h1>
 
-<h3 align="center">Data Analyst | Python • SQL • Power BI • Excel</h3>
+<h3 align="center">Data Analyst
 
 <p align="center">
   Turning data into meaningful insights and actionable business decisions.
