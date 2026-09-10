@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="Siddhik-raj's GitHub profile" src="dark_mode.svg" />
 </picture>
-# Hi, I'm Siddhik👋
+Hi, I'm Siddhik
 
 ### Data Analyst | Data Science & Analytics | Business Intelligence
 
