@@ -133,13 +133,6 @@ I enjoy working across the entire analytics workflow — from **data cleaning an
 
 ## 🚀 FEATURED PROJECTS
 
-<div align="center">
-
-<a href="https://github.com/Siddhik-raj/superstore-sales-profit-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhik-raj&repo=superstore-sales-profit-analysis)&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/>
-</a>
-</div>
-
 ### 📊 Superstore Data Analytics
 
 **Python · Pandas · NumPy · SQL · Data Visualization**
@@ -185,18 +178,6 @@ I enjoy working across the entire analytics workflow — from **data cleaning an
 
 ---
 
-## 📈 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Siddhik-raj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhik-raj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-
-</div>
-
----
-
 ## 🔥 CONTRIBUTION STREAK
 
 <div align="center">
@@ -204,18 +185,6 @@ I enjoy working across the entire analytics workflow — from **data cleaning an
 <img src="https://streak-stats.demolab.com?user=Siddhik-raj&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF"/>
 
 </div>
-
----
-
-## 🐍 MY CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Siddhik-raj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-> ⚠️ Enable the contribution snake through a GitHub Actions workflow in your profile repository.
 
 ---
 
