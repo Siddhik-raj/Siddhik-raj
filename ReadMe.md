@@ -135,14 +135,9 @@ I enjoy working across the entire analytics workflow — from **data cleaning an
 
 <div align="center">
 
-<a href="YOUR_PROJECT_1_URL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_1_REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/>
+<a href="https://github.com/Siddhik-raj/superstore-sales-profit-analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhik-raj&repo=superstore-sales-profit-analysis)&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/>
 </a>
-
-<a href="YOUR_PROJECT_2_URL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2_REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00F7FF&text_color=FFFFFF"/>
-</a>
-
 </div>
 
 ### 📊 Superstore Data Analytics
@@ -180,10 +175,6 @@ I enjoy working across the entire analytics workflow — from **data cleaning an
 * 🎯 Business performance tracking
 * 📈 Executive-level reporting
 
-<a href="YOUR_POWERBI_REPO_URL">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8A2BE2?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</a>
-
 ---
 
 ### 🐍 Python Data Analysis Projects
@@ -192,19 +183,15 @@ I enjoy working across the entire analytics workflow — from **data cleaning an
 
 > A collection of analytical projects covering data cleaning, EDA, visualization, statistical exploration, and business insights.
 
-<a href="YOUR_DATA_ANALYTICS_REPO_URL">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 ---
 
 ## 📈 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Siddhik-raj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhik-raj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -214,7 +201,7 @@ I enjoy working across the entire analytics workflow — from **data cleaning an
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com?user=Siddhik-raj&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF"/>
 
 </div>
 
@@ -224,7 +211,7 @@ I enjoy working across the entire analytics workflow — from **data cleaning an
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Siddhik-raj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
