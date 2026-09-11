@@ -14,22 +14,22 @@
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/siddhikraj297/">
 <img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://siddhik-raj.github.io/Siddhik_Raj_M_Portfolio/">
 <img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=ffffff"/>
 </a>
-<a href="YOUR_EMAIL">
+<a href="Siddhikrajmadhan@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/Siddhik-raj">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Siddhik-raj&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
 
 </div>
 
